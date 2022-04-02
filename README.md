@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinnnmoy&label=Profile%20views&color=0e75b6&style=flat" alt="mrinnnmoy" /> </p>
 
-- 💬 Ask me about **Web Development, Java, App Development, BlockChain Development**
+- 💬 Ask me about: **Web Development, Java, App Development, BlockChain Development**
 
 - 👨‍💻 Check out my personal portfolio: **portfolio**
 
