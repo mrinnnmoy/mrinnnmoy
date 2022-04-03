@@ -1,21 +1,20 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/jigar-sable/" target="_blank"> Jigar Sable </a></h1>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Mrinmoy Porel </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **Web Development, Java, DBMS, MySQL**
+- 💬 Ask me about : **Java, DSA, Web Development, App Development, Computer Fundamentals**
 
-- 👨‍💻 Check out my personal portfolio : **<a href="https://jigarsable.netlify.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio : **<a href="https://mrinnnmoy.github.io/MyCV/" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jigarsable21@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://www.instagram.com/jigarsable.dev"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/lifecode5"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-</div>
+  <a href="https://www.linkedin.com/in/mrinnnmoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mrinmoy202000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://www.instagram.com/mrinnnmoy"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+ </div>
 
 <h3 align="left">Web Tech Stack :</h3>
 <div align="left">
@@ -34,6 +33,7 @@
 <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
 <img alt="chakraui" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+<br>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="sockteio" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white"/>
 </div>
@@ -58,7 +58,6 @@
 <h3 align="left">Hosting :</h3>
 <div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -67,11 +66,11 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&theme=dark&locale=en" alt="mrinnnmoy" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&theme=dark&locale=en&layout=compact" alt="mrinnnmoy" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=dark" alt="mrinnnmoy" /></p>
   </div>
