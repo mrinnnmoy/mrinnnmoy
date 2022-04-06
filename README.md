@@ -52,7 +52,7 @@
   </div>
 
 
-### 🗄️ Cloud hosting
+### ☁ Cloud hosting
   <div align="left">
     <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white&style=for-the-badge"/>
     <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
