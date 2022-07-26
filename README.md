@@ -5,7 +5,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 
   <p align="center">
-    <a href="#"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+    <a href="https://mrinnnmoy.github.io/portfolio1/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
     <a href="mailto:mrinmoy202000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/mrinnnmoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <br>
@@ -22,7 +22,7 @@
 
 - 💬 Ask me about : **Java, DSA, Web Development, BlockChain Development, Computer Fundamentals**
 
-- 👨‍💻 Check out my personal portfolio : **Yet to come**
+- 👨‍💻 Check out my personal portfolio : <a href="https://mrinnnmoy.github.io/portfolio1/" target="_blank">Visit</a>
 
 - 😄 Pronouns: He/His
 
