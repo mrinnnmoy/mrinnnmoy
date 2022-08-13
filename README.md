@@ -108,11 +108,11 @@
 <h1>My GitHub Stats:</h1>
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&theme=dark&locale=en" alt="mrinnnmoy" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&theme=dark&locale=en&layout=compact" alt="mrinnnmoy" />                 </td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&theme=gruvbox&locale=en" alt="mrinnnmoy" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mrinnnmoy"/></td>
     </tr>
   </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=dark" alt="mrinnnmoy" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=gruvbox" alt="mrinnnmoy" /></p>
 </div>
