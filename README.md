@@ -88,7 +88,7 @@
   	<img alt="Mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
   </p>
 
-### 🕓 Version Control🕓:
+### 🕓 Version Control:
   <p>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
