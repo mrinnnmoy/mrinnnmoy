@@ -103,8 +103,7 @@
   <p>
     
    
-  <r>
-<h1>My GitHub Stats:</h1>
+<h1>👨‍💻 My GitHub Stats:</h1>
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&theme=gruvbox&locale=en" alt="mrinnnmoy" /></td>
