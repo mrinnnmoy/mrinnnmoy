@@ -104,6 +104,7 @@
     
    
 <h1>👨‍💻 My GitHub Stats:</h1>
+<a href="http://www.github.com/mrinnnmoy"><img src="https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&theme=gruvbox&locale=en" alt="mrinnnmoy" /></td>
