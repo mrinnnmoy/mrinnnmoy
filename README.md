@@ -20,7 +20,7 @@
 
 - 🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about : **Java, DSA, Web Development, BlockChain Development, Computer Fundamentals**
+- 💬 Ask me about : **Java, DSA, Web & BlockChain Development, Computer Fundamentals**
 
 - 👨‍💻 Check out my personal portfolio : <a href="https://mrinnnmoy.github.io/portfolio1/" target="_blank">Visit</a>
 
