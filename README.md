@@ -1,21 +1,14 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
-  I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Mrinmoy!</a></h1>
-  
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<div>
+    <h1 align="center">
+        Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+        I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Mrinmoy Porel!</a>
+    </h1>
+    <!-- <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)"/> -->
+</div>
 
-  <p align="center">
-    <a href="https://mrinnnmoy.github.io/portfolio1/"><img alt="portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-    <a href="mailto:mrinmoy202000@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/mrinnnmoy/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <br>
-    <a href="https://leetcode.com/mrinnnmoy/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/> </a>
-<a href="https://www.hackerrank.com/mrinnnmoy"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-    <a href="https://twitter.com/mrinnnmoy"><img alt="Twitter" src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-    <a href="https://github.com/mrinnnmoy?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/mrinnnmoy?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  </p>
-  <br>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+<br>
+<br>
 
 
 - 🌱 Learning Never Stops 🚀
@@ -24,7 +17,9 @@
 
 - 👨‍💻 Check out my personal portfolio : <a href="https://mrinnnmoy.github.io/portfolio1/" target="_blank">Visit</a>
 
-- 😄 Pronouns: He/His
+- 💬 Looking for Collaboration in Linkedin [**Mrinmoy Porel**](https://www.linkedin.com/in/mrinnnmoy/) 
+
+- 📫 Reach me at **mrinmoy202000@gmail.com**
 
 <h1>Technologies Used:</h1>
 
@@ -104,14 +99,15 @@
     
    
 <h1>👨‍💻 My GitHub Stats:</h1>
-<a href="http://www.github.com/mrinnnmoy"><img src="https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-  <table>
+
+[![Mrinmoy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mrinnnmoy)
+  <table align="center">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&theme=gruvbox&locale=en" alt="mrinnnmoy" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mrinnnmoy"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/></td>
+      <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=tokyonight" /></td>
     </tr>
   </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=gruvbox" alt="mrinnnmoy" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD" /></p>
 </div>
