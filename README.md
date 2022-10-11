@@ -11,15 +11,15 @@
 <br>
 
 
-- 🌱 Learning Never Stops 🚀
+- 🌱 Learning Never Stops. 🚀
 
-- 💬 Ask me about : **Java, DSA, Web & BlockChain Development, Computer Fundamentals**
+- 💬 Ask me about : **Java, DSA, Web & BlockChain Development, Computer Fundamentals**.
 
-- 👨‍💻 Check out my personal portfolio : <a href="https://mrinnnmoy.github.io/portfolio1/" target="_blank">Visit</a>
+- 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.github.io/portfolio1/" target="_blank">Visit</a>
 
-- 💬 Looking for Collaboration in Linkedin [**Mrinmoy Porel**](https://www.linkedin.com/in/mrinnnmoy/) 
+- 💬 Looking for Collaboration in Linkedin: [**Mrinmoy Porel**](https://www.linkedin.com/in/mrinnnmoy/) 
 
-- 📫 Reach me at **mrinmoy202000@gmail.com**
+- 📫 Reach me at: **mrinmoy202000@gmail.com**
 
 <h1>Technologies Used:</h1>
 
