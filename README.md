@@ -7,15 +7,17 @@
 </div>
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
+
+<br>
+<br>
 <br>
 
-# 💫 About Me :
 
 - 🌱 I am currently learning **Backend Development**.
 
 - 💬 Ask me about : **Web Development, Java, Computer Fundamentals**.
 
-- 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.github.io/portfolio1/" target="_blank">Visit</a>
+- 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.netlify.app" target="_blank">Visit</a>
 
 <br>
 
