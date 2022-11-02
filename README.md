@@ -3,15 +3,11 @@
         Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
         I'm <a href="https://www.linkedin.com/in/mrinnnmoy/" target="_blank"> Mrinmoy Porel!</a>
     </h1>
-    <!-- <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)"/> -->
 </div>
 
 <img align="right" alt="GIF" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="400px" height="250" />
 
 <br>
-<br>
-<br>
-
 
 - 🌱 I am currently learning **Backend Development**.
 
@@ -19,6 +15,7 @@
 
 - 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.netlify.app" target="_blank">Visit</a>
 
+<br>
 <br>
 
 # 🌐 Socials:
