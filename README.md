@@ -11,7 +11,7 @@
 
 - 🌱 I am currently learning **Backend Development**.
 
-- 💬 Ask me about : **Web Development, Java, Computer Fundamentals**.
+- 💬 Ask me about : **Web Dev., Java, Computer Fundamentals**.
 
 - 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.netlify.app" target="_blank">Visit</a>
 
@@ -69,10 +69,8 @@
 
 <div align="center">
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=react&hide_border=true&stroke=0000&background=060A0CD" /></p>
+    
+  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+    
+  [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
 </div>
-
-<br>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
