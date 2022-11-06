@@ -59,16 +59,16 @@
    
 # 👨‍💻 My GitHub Stats:
 
-[![Mrinmoy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)](https://github.com/mrinnnmoy)
+[![Mrinmoy's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=mrinnnmoy&bg_color=0D1117&color=42f563&line=ffffff&point=03b5fc&hide_border=true)](https://github.com/mrinnnmoy)
   <table align="center">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=react"/></td>
-      <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=react" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=chartreuse-dark&hide_border=true"/></td>
+      <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
     </tr>
   </table>
 
 <div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=react&hide_border=true&stroke=0000&background=060A0CD" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD" /></p>
     
   [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
     
