@@ -13,7 +13,7 @@
 
 - 💬 Ask me about : **Web Dev., Java, Computer Fundamentals**.
 
-- 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.vercel.app" target="_blank">Visit</a>
+- 👨‍💻 Check out my personal portfolio: <a href="https://mrinnnmoy.netlify.app/" target="_blank">Visit</a>
 
 <br>
 
