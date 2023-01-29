@@ -64,8 +64,8 @@
 
   <table align="center">
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=chartreuse-dark&hide_border=true"/></td>
-      <td><td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="mrinnnmoy" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></td>
     </tr>
   </table>
 
