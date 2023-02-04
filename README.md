@@ -9,7 +9,7 @@
 
 <br>
 
-- 🌱 I am currently learning **Blockchain Development**.
+- 🌱 I am currently learning: **Blockchain Development**.
 
 - 💬 Ask me about : **Web Dev., Java, Computer Fundamentals**.
 
