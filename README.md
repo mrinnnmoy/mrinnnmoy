@@ -5,12 +5,16 @@
 
 <ul>
   <li>🌱 I’m currently learning Solidity.</li>
-  <li>💬 Ask me about Web3 ,Solidity & Blockchain.</li>
+  <li>💬 Ask me about Web Dev, Blockchain & Solidity.</li>
   <li>🔭 In my spare time I work on my side projects, write articles on <a href="https://mrinnnmoy.hashnode.dev/">My Hashnode Blog</a> and play cricket.</li>
   <li>💻 My portfolio is available at https://mrinnnmoy.netlify.app/</li>
 </ul>
 
 <hr/>
+
+# 🌐 My GitHub stats:
+
+[![Mrinmoy's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mrinnnmoy&bg_color=000000&color=42f563&line=03b5fc&point=ffffff&hide_border=true)](https://github.com/mrinnnmoy/github-readme-activity-graph)
 
 <table>
   <tr>
