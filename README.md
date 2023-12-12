@@ -1,19 +1,15 @@
-<h1 align="center">👋 Hi, I'm Mrinmoy Porel.</h1>
+# 👋 Hi there, I'm Mrinmoy. 
 
-![profile-banner](/web3-banner.png)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrinnnmoy?style=social)](https://twitter.com/intent/follow?screen_name=mrinnnmoy_) [![GitHub User's stars](https://img.shields.io/github/stars/mrinnnmoy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/mrinnnmoy?tab=stars)
 
-<h3 align="center">A Full-Stack Web3 Developer from India exploring DEFI & DAOs.</h3>
+![profile-banner](./web3-banner.png)
 
-<br/>
-
-<ul>
-  <li>💻 My portfolio is available at <a href="http://mrinmoy.live/" target="_blank" >mrinmoy.live</a></li>
-  <li>💚 Love building Dapps and writing technical content.</li>
-  <li>🔭 Technologies I use: ReactJS | NextJS | TailwindCSS | Solidity | Hardhat | EtherJS | IPFS | Git | GitHub</li>
-
-</ul>
-
-<hr/>
+- 💻 Full-Stack WEB3 DEV & Technical Content Writer.
+- 😄 Pronouns: he/him 🕺
+- 🌱 I’m currently learning Typescript and Rust. 
+- 💬 Ask me about anything!
+- 📫 How to reach me: [Email me](mailto:mrinmoy202000@gmail.com) or [Twitter DMs](https://twitter.com/mrinnnmoy)!
+- 📖 Read my stuff at [mrinmoy.live](https://mrinmoy.live/)! 
 
 # 🌐 My GitHub stats:
 
