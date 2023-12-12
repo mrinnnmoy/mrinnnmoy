@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mrinmoy. 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrinnnmoy?style=social)](https://twitter.com/intent/follow?screen_name=mrinnnmoy_) [![GitHub User's stars](https://img.shields.io/github/stars/mrinnnmoy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/mrinnnmoy?tab=stars)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mrinnnmoy?style=social)](https://twitter.com/intent/follow?screen_name=mrinnnmoy) [![GitHub User's stars](https://img.shields.io/github/stars/mrinnnmoy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/mrinnnmoy?tab=stars)
 
 ![profile-banner](./web3-banner.png)
 
