@@ -1,25 +1,39 @@
-# 👋 Hi there, I'm Mrinmoy. 
+# Hi, I'm Mrinmoy. 👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mrinnnmoy?style=social)](https://twitter.com/intent/follow?screen_name=mrinnnmoy) [![GitHub User's stars](https://img.shields.io/github/stars/mrinnnmoy?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=social)](https://github.com/mrinnnmoy?tab=stars)
+![banner image](https://github.com/mrinnnmoy/mrinnnmoy/blob/main/web3-banner.png)
 
-![profile-banner](./web3-banner.png)
+🔭 **About Me:**
+- 🌱 Passionate about Bitcoin, Ethereum and decentralized technologies.
+- 🛠️ Skilled in **JavaScript, TypeScript, Solidity, Rust** and more.
+- 📝 Blockchain enthusiast writing blogs on [Hashnode](https://mrinmoy.hashnode.dev).
+- 💡 Exploring **Zero-knowledge Proofs** and **Decentralized Financial** systems.
 
-- 💻 Full-Stack WEB3 DEV & Technical Content Writer.
-- 😄 Pronouns: he/him 🕺
-- 🌱 I’m currently learning Typescript and Rust. 
-- 💬 Ask me about anything!
-- 📫 How to reach me: [Email me](mailto:mrinmoy202000@gmail.com) or [Twitter DMs](https://twitter.com/mrinnnmoy)!
-- 📖 Read my stuff at [mrinmoy.live](https://mrinmoy.live/)! 
+---
 
-# 🌐 My GitHub stats:
+🚀 **Project Highlights:**
+- [DonateX](https://github.com/mrinnnmoy/donatex) : Transparent donation platform combining matching campaigns with automated payment workflows for seamless fundraising.
+- [Agora](https://github.com/mrinnnmoy/Agora) : De-Centralized platform for creators to mint & sell digital goods directly.
+- [Rugsafe](https://github.com/mrinnnmoy/RugSafe) : A blockchain-native API designed to detect and mitigate rug pull risks in crypto projects.
+- [ZK-Voting](https://github.com/mrinnnmoy/ZK-Voting) : Anonymous Voting system build with the power of Zero-knowledge cryptography.
+- [Kosmos](https://github.com/mrinnnmoy/Kosmos) : Decentralised application for NFT-based event management & ticketing with enhanced transparency and ownership.
+- [CodeForge](https://github.com/mrinnnmoy/CodeForge) : A smart contract co-pilot that accelerates blockchain development by assisting developers with code generation and suggestions.
+- [Grpc](https://github.com/mrinnnmoy/gRPC-chaum-pederson-zkp) : gRPC client/server for zero-knowledge proof authentication Chaum Pederson Zero-Knowledge Proof in Rust.
+- [NFTFlex](https://github.com/mrinnnmoy/NFTFlex) : A social media embed for Solana NFTs, showcasing ownership and enabling NFT liquidation into any token instantly.
+- [Validus](https://github.com/mrinnnmoy/Validus) : Universal Caller ID for crypto wallets and explored innovative intersections of blockchain and immigration.
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=mrinnnmoy&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="mrinnnmoy" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinnnmoy&theme=chartreuse-dark&hide_border=true&stroke=0000&background=060A0CD" /></td>
-  </tr>
-</table>
+---
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinnnmoy&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" /></p>
-  </div>
+🌟 **Achievements:**
+- 🏆 Hackathon enthusiast with notable project wins.
+- ✍️ Published articles on Ethereum scaling solutions and zkEVM Validium.
+- 🌐 Actively contributing to open-source blockchain initiatives.
+
+---
+
+💬 **Let's Connect:**
+- 📫 Reach me at: **mrinmoy202000@gmail.com**
+- 🌐 [Twitter](https://twitter.com/mrinnnmoy) • [LinkedIn](https://linkedin.com/in/mrinnnmoy) • [GitHub](https://github.com/mrinnnmoy) • [Hashnode](https://mrinmoy.hashnode.dev)
+
+---
+
+⚡ **Fun fact:** I follow the DCA method for crypto investments and love creating innovative decentralized solutions!
