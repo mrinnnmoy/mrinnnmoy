@@ -11,7 +11,7 @@
 ---
 
 🚀 **Project Highlights:**
-- [DonateX](https://github.com/mrinnnmoy/donatex) : Transparent donation platform combining matching campaigns with automated payment workflows for seamless fundraising.
+- [DonateX](https://github.com/mrinnnmoy/donatex) : A transparent Web3 donation platform empowering causes and communities with seamless crypto fundraising.
 - [Agora](https://github.com/mrinnnmoy/Agora) : De-Centralized platform for creators to mint & sell digital goods directly.
 - [Rugsafe](https://github.com/mrinnnmoy/RugSafe) : A blockchain-native API designed to detect and mitigate rug pull risks in crypto projects.
 - [ZK-Voting](https://github.com/mrinnnmoy/ZK-Voting) : Anonymous Voting system build with the power of Zero-knowledge cryptography.
