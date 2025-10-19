@@ -13,13 +13,13 @@
 🚀 **Project Highlights:**
 - [DonateX](https://github.com/mrinnnmoy/donatex) : A transparent Web3 donation platform empowering causes and communities with seamless crypto fundraising.
 - [Agora](https://github.com/mrinnnmoy/Agora) : De-Centralized platform for creators to mint & sell digital goods directly.
-- [Rugsafe](https://github.com/mrinnnmoy/RugSafe) : A blockchain-native API designed to detect and mitigate rug pull risks in crypto projects.
+- [SolMate](https://github.com/mrinnnmoy/SolMate) : Your AI-Powered Smart Contract Coding Assistant for VS Code.
 - [ZK-Voting](https://github.com/mrinnnmoy/ZK-Voting) : Anonymous Voting system build with the power of Zero-knowledge cryptography.
 - [Kosmos](https://github.com/mrinnnmoy/Kosmos) : Decentralised application for NFT-based event management & ticketing with enhanced transparency and ownership.
-- [Trendr](https://github.com/mrinnnmoy/Trendr) : AI-driven trading bot that tracks influencer tweets, analyzes market trends and automatically trades meme coins on Solana to help users catch viral opportunities.
+- [Trendr](https://github.com/mrinnnmoy/Trendr) : Telegram-Based Copytrading App for Polymarket Predictions.
 - [Grpc](https://github.com/mrinnnmoy/gRPC-chaum-pederson-zkp) : gRPC client/server for zero-knowledge proof authentication Chaum Pederson Zero-Knowledge Proof in Rust.
-- [NFTFlex](https://github.com/mrinnnmoy/NFTFlex) : A social media embed for Solana NFTs, showcasing ownership and enabling NFT liquidation into any token instantly.
-- [Validus](https://github.com/mrinnnmoy/Validus) : Universal Caller ID for crypto wallets and explored innovative intersections of blockchain and immigration.
+- [FlexTerminal](https://github.com/mrinnnmoy/FlexTerminal) : Unified Trading Terminal for Stocks & Crypto — multi-exchange order routing, visual arbitrage detection and one-click strategies in a single app.
+- [Ardana](https://github.com/mrinnnmoy/Ardana) : AI-Powered On-Chain Investment Platform for Effortless DeFi Growth.
 
 ---
 
