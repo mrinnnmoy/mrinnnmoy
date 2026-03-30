@@ -13,17 +13,21 @@
 
 🚀 **Project Highlights:**
 
-- [DonateX](https://github.com/mrinnnmoy/donatex) : A transparent Web3 donation platform empowering causes and communities with seamless crypto fundraising.
+- [Dev-Portfolio](https://github.com/mrinnnmoy/dev-portfolio) : Personal developer portfolio showcasing projects, skills, open-source contributions and blog.
 
-- [gRPC ZK Auth](https://github.com/mrinnnmoy/gRPC-chaum-pederson-zkp) : Chaum-Pedersen Zero-Knowledge Proof authentication over gRPC in Rust.
+- [Standup.dev](https://github.com/mrinnnmoy/Standup.dev) : Freemium team coordination hub. Async daily standups with automated email digests, live team boards & a prioritized GitHub PR review queue.
 
-- [SolMate](https://github.com/mrinnnmoy/SolMate) : Your AI-powered VS Code extension for Solana + Anchor smart contract development.
+- [DonateX](https://github.com/mrinnnmoy/donatex) : Solana based donation platform where anyone can create a campaign, accept SOL contributions & withdraw as the campaign owner. All on-chain via Anchor.
 
-- [Kosmos](https://github.com/mrinnnmoy/Kosmos) : NFT-based event ticketing and management dApp on Solana.
+- [Kosmos](https://github.com/mrinnnmoy/Kosmos) : NFT based event ticketing & management dapp on Solana using compressed NFTs for tickets, Solana Pay QR entry, PDA-based ownership verification.
 
-- [ZK-Voting](https://github.com/mrinnnmoy/ZK-Voting) : Anonymous on-chain governance voting using Zero-Knowledge proofs on Ethereum.
+- [ZK-Voting](https://github.com/mrinnnmoy/ZK-Voting) : Anonymous on-chain governance voting system on Ethereum. ZK circuits (Circom) prove voter eligibility without revealing identity, with Merkle tree eligibility and nullifier-based anti-double-vote.
 
-- [Ardana](https://github.com/mrinnnmoy/Ardana) : AI-Powered On-Chain Investment Platform for Effortless DeFi Growth.
+- [gRPC-ZK-Auth](https://github.com/mrinnnmoy/gRPC-ZK-Auth) : Chaum-Pedersen Zero-Knowledge Proof authentication over gRPC — a Rust server that registers and authenticates users using cryptographic proofs instead of passwords, with a Protobuf schema and full test suite.
+
+- [SolMate](https://github.com/mrinnnmoy/SolMate) : AI-powered VS Code extension for Solana & Anchor development with context-aware completions for Anchor macros, command palette for PDA scaffolding & inline explanations for Solana runtime errors.
+
+- [Ardana](https://github.com/mrinnnmoy/Ardana) : AI-powered on-chain DeFi investment platform. Multi-chain (Solana + Ethereum), AI agent reads live protocol data & suggests strategies, cross-chain via Wormhole, real-time oracle feeds, full DevOps stack.
 
 ---
 
