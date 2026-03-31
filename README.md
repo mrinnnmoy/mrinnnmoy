@@ -15,9 +15,9 @@
 
 - [Dev-Portfolio](https://github.com/mrinnnmoy/dev-portfolio) : Personal developer portfolio showcasing projects, skills, open-source contributions and blog.
 
-- [Standup.dev](https://github.com/mrinnnmoy/Standup.dev) : Freemium team coordination hub. Async daily standups with automated email digests, live team boards & a prioritized GitHub PR review queue.
+- [Standup.dev](https://github.com/mrinnnmoy/Standup-dev) : Freemium team coordination hub. Async daily standups with automated email digests, live team boards & a prioritized GitHub PR review queue.
 
-- [DonateX](https://github.com/mrinnnmoy/donatex) : Solana based donation platform where anyone can create a campaign, accept SOL contributions & withdraw as the campaign owner. All on-chain via Anchor.
+- [DonateX](https://github.com/mrinnnmoy/TrustFund) : Solana based donation platform where anyone can create a campaign, accept SOL contributions & withdraw as the campaign owner. All on-chain via Anchor.
 
 - [Kosmos](https://github.com/mrinnnmoy/Kosmos) : NFT based event ticketing & management dapp on Solana using compressed NFTs for tickets, Solana Pay QR entry, PDA-based ownership verification.
 
