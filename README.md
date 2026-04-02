@@ -17,7 +17,7 @@
 
 - [Standup.dev](https://github.com/mrinnnmoy/Standup-dev) : Freemium team coordination hub. Async daily standups with automated email digests, live team boards & a prioritized GitHub PR review queue.
 
-- [DonateX](https://github.com/mrinnnmoy/TrustFund) : Solana based donation platform where anyone can create a campaign, accept SOL contributions & withdraw as the campaign owner. All on-chain via Anchor.
+- [TrustFund](https://github.com/mrinnnmoy/TrustFund) : Solana based donation platform where anyone can create a campaign, accept SOL contributions & withdraw as the campaign owner. All on-chain via Anchor.
 
 - [Kosmos](https://github.com/mrinnnmoy/Kosmos) : NFT based event ticketing & management dapp on Solana using compressed NFTs for tickets, Solana Pay QR entry, PDA-based ownership verification.
 
